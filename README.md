@@ -1,12 +1,16 @@
 # List of games : 
 ##  [4-in-1 Fun Pak (USA, Europe)](https://github.com/AnisGLZ/My-GameBoy-ROM-disassembly-dump/tree/main/Disassembly%20of%20%224-in-1%20Fun%20Pak%20(USA%2C%20Europe).gb)  
-ROM MD5 hash: b8d609b5dbac6a2dae6087fd9feec196
+`ROM MD5 hash̀ : b8d609b5dbac6a2dae6087fd9feec196
 ##  [4-in-1 Funpak - Volume II (USA, Europe)](https://github.com/AnisGLZ/My-GameBoy-ROM-disassembly-dump/tree/main/Disassembly%20of%204-in-1%20Funpak%20-%20Volume%20II%20(USA%2C%20Europe).gb)  
-ROM MD5 hash: 71feb6c7d5b764d5192c28efe74d13c6
+`ROM MD5 hash̀ : 71feb6c7d5b764d5192c28efe74d13c6
 ##  Addams Family, The Pugsley's Scavenger Hunt (USA, Europe)  
+`ROM MD5 hash̀ : 57726c28dc09949029a154f63b891dd0
 ##  Addams Family, The (USA)  
+`ROM MD5 hash̀ : f629f0b6d156bec6acb9e6b9da4ad4e3
 ##  Adventure Island II - Aliens in Paradise (USA, Europe)  
+`ROM MD5 hash̀ : ed2444afe317452e29c1c2258da6963c
 ##  Adventure Island (USA, Europe)  
+`ROM MD5 hash̀ : d67e58bf5f39d5fb073fed85c3d9bede
 ##  Adventures of Rocky and Bullwinkle and Friends, The (USA)  
 ##  Adventures of Star Saver, The (USA, Europe)  
 ##  Aerostar (USA, Europe)  
