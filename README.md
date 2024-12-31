@@ -1,7 +1,9 @@
 # List of games : 
-##  4-in-1 Fun Pak (USA, Europe)  
-##  4-in-1 Funpak - Volume II (USA, Europe)  
-##  Addams Family, The - Pugsley##  \##  ##  s Scavenger Hunt (USA, Europe)  
+##  [4-in-1 Fun Pak (USA, Europe)](https://github.com/AnisGLZ/My-GameBoy-ROM-disassembly-dump/tree/main/Disassembly%20of%20%224-in-1%20Fun%20Pak%20(USA%2C%20Europe).gb)  
+ROM MD5 hash: b8d609b5dbac6a2dae6087fd9feec196
+##  [4-in-1 Funpak - Volume II (USA, Europe)](https://github.com/AnisGLZ/My-GameBoy-ROM-disassembly-dump/tree/main/Disassembly%20of%204-in-1%20Funpak%20-%20Volume%20II%20(USA%2C%20Europe).gb)  
+ROM MD5 hash: 71feb6c7d5b764d5192c28efe74d13c6
+##  Addams Family, The Pugsley's Scavenger Hunt (USA, Europe)  
 ##  Addams Family, The (USA)  
 ##  Adventure Island II - Aliens in Paradise (USA, Europe)  
 ##  Adventure Island (USA, Europe)  
@@ -548,4 +550,3 @@
 ##  Zen - Intergalactic Ninja (USA)  
 ##  Zool - Ninja of the ##  \##  ##  Nth##  \##  ##   Dimension (USA)  
 ##  Zoop (USA, Europe)  
-
